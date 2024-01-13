@@ -1,4 +1,4 @@
-# Daily To-Do List
+# Force on Today
 
 ## Description
 This is a simple and interactive Force on Today(a type of todo list but more interactive) website built with HTML, CSS, and JavaScript. It allows users to add, check off, and delete tasks from their daily to-do list.
