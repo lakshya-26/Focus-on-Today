@@ -10,7 +10,7 @@ This is a simple and interactive Force on Today(a type of todo list but more int
 - Responsive design that works on desktop, tablets, and mobile
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/yourusername/daily-todo-list.git`
+1. Clone this repository: `git clone https://github.com/lakshya-26/daily-todo-list.git`
 2. Open `index.html` in your browser
 
 ## Usage
